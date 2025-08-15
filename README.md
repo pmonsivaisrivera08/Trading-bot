@@ -1,2 +1,10 @@
 Bot de trading en Python que se conecta a la API oficial de Binance para operar criptomonedas mediante una estrategia de medias móviles. Permite trabajar con intervalos de 4 horas y 1 hora, adaptándose a distintos estilos de trading. Incluye funciones para obtener precios en tiempo real de todos los pares disponibles en Binance y está diseñado para ser fácil de personalizar, cambiando parámetros como el período de las medias móviles o el par de criptomonedas a analizar.
+
+
+
+
+
+
+
+
 Python-based trading bot that connects to Binance’s official API to trade cryptocurrencies using a moving average strategy. It supports 4-hour and 1-hour intervals, adapting to different trading styles. It includes functions to fetch real-time prices for all available pairs on Binance and is designed to be easily customizable by changing parameters such as moving average periods or the cryptocurrency pair to analyze.
